@@ -319,6 +319,8 @@ function lotsOfArt(artists){
   return hundredPaintings;
 }
 
+
+
 /* ***** END OF TASKS ***** */
 
 
