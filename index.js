@@ -320,7 +320,6 @@ function lotsOfArt(artists){
 }
 
 
-
 /* ***** END OF TASKS ***** */
 
 
